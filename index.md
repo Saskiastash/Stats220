@@ -1,1 +1,1 @@
-![](meme.jpg)
+![](my_meme.png)

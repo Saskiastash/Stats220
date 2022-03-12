@@ -1,15 +1,17 @@
-#Creation of a meme using R studio and the Magick package
+# Creation of a meme using R studio and the Magick package
 
 1. Think of an idea- my motivation was something funny and animal related. Having just been to the Zoo, meerkats were on my mind.[^1]
 2. Choose images off pixaby.com
-3. Use Magick package functions to code 
+3. Use Magick package functions to code and format meme in R studio
 
 [^1]: After creating the meme and searching for others like it I realised the concept of the joke must've been subconsciously stored in my head from seeing similar memes.
 
+
+## My meme 
 ![](my_meme.png)
 
-Your index.md file needs contain information about the meme you created, for example, what the motivation was, and how your meme is new/original (e.g. an adaption of an existing meme format).
 
+## The coding for my meme
 ```
 {
 library(magick)

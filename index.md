@@ -1,7 +1,7 @@
 # Creation of a meme using R studio and the Magick package
 
 1. Think of an idea- my motivation was something funny and animal related. Having just been to the Zoo, meerkats were on my mind.[^1]
-2. Choose images off pixaby.com
+2. Choose images off *pixaby.com*
 3. Use Magick package functions to code and format meme in R studio
 
 [^1]: After creating the meme and searching for others like it I realised the concept of the joke must've been subconsciously stored in my head from seeing similar memes.
